@@ -1,0 +1,6 @@
+.Abrimos el navegador
+.Definimos que informacion que vamos a buscar
+.Buscamos la informacion
+.Comparamos la informacion
+.Verificamos las fuentes
+.Compartimos la informacion
