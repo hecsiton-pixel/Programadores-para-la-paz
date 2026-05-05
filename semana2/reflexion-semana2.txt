@@ -1,0 +1,4 @@
+Para un desarrollador es fundamental saber y entender como moverse o navegar por una terminal 
+porque es la base primordial para hacer cambios , saber en donde estas ubicado dentro de un archivo
+porque si no sabes donde estas como sabras hacia donde te diriges , debes tener claros tus pasos a seguir , entrando mas a manera tecnita;
+te hace un programador mas efeciente , mas capaz y te ahorra mucho tiempo y el saber organizar tus archivos te hace tener mucho mas orden y control dentro de tu terminal y tu espacio de trabajo.

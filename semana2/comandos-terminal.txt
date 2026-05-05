@@ -1,0 +1,13 @@
+Comandos utilizados 
+•pwd
+•ls
+•mkdir semana2
+•cd semana2
+•touch preguntas-semana2.txt
+•touch comandos-terminal
+•touch reflexion-semana2
+•nano
+•cat
+•git add
+•git commit -m "Actividad semana 2"
+•git push
