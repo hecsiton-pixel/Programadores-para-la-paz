@@ -1,0 +1,10 @@
+¿Porque es tan importante que los proyectos de sofware mantengan un registro de cambios usando herramientas como git?
+Primeramente es de vital importancia llevar el registro de nuestros cambios ya que esto nos permite  
+tener una mayor organizacion como programadores,como segunda razon este tambien nos permite pasar de un proyecto sin retorno y con riesgos a uno con oportunidad de realizar cambios 
+Como tercero nos permite solucionar errores y por ultimo nos facilita la manera en que llevamos el orden.
+Mantener el registro de cambios usando herramientas como git nos da la oportunidad de recordar aquellos cambios que se nos hayan olvidado,
+asi mismo al tener dichos cambios guardados podemos llegar a hacer pruebas sin miedo ya que tenemos un respaldo de nuestro trabajo guardado 
+con todo lo anterior mencionado se nos abre muchas oportunidades al momento de realizar nuetros proteyectos como programadores.
+
+
+

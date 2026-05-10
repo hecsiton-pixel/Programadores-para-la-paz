@@ -1,0 +1,8 @@
+Repositorio : Es el espacio virtual donde se guarda un proyecto . almacenando carpetas , archivos 
+y cualquier cambio que realices en un historial de archivos.
+Commit : Es como tomar una foto de un momento exacto de un proyecto , con la increible facilidad regresar si algo fallo
+o simplemente ver los cambios realizados sabiendo cuando y quien los hizo.
+Push : Es el comando para subir tu proyecto , es decir el trabajo que has estas haciendo en tu dispositivo local a la nube que en este caso seria
+en un repositorio local.
+     
+
