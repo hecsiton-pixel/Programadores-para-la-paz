@@ -1,0 +1,9 @@
+Lo que hace esta ruta es recibir los datos que llegan a esta direccion y extraer el texto dentro de la solucitud 
+despues procesa la informacion recibida y lo prepara para responder al cliente o usuario
+con el mensaje Reporte recibido con esto nos aseguramos de que la comunicacion fue ecxitosa
+en una aplicacion para la comunidad nos podria servir para recibir alertas , retroalimentacion , sugerencias
+y para organizar ayuda para la comunidad en casos especificos ,tambien reportar cualquier daño a 
+infrectructuras como baches en la calle , accidentes o trancones ,
+alertar a toda la comunidad sobre posibles peligros , actividad sospechosa o inisual.
+
+
