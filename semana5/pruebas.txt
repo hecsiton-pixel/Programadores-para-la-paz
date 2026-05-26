@@ -1,0 +1,4 @@
+en la ruta http://localhost:3000 nos indica que el servidor esta activo 
+en la ruta http://localhost:3000/saludo nos dice "Hola comunidad" 
+en la ruta http://localhost:3000/mensaje/juan nos saluda como "Hola juan" 
+

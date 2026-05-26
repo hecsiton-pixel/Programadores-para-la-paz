@@ -1,0 +1,11 @@
+Las APIS nos permiten tener una mayor organizacion , enfoque y claridad con nuestra informacion
+usar una API en una comunidad hace que la informacion que podria ser caotica y desordenada 
+se vuelva organizada , estructurada y sobre todo accesible a todo el publico comunitario 
+las apis tambien nos permiten tener alertas o reportes a todos los usuarios en caso de accidentes 
+incendios o cualquier anuncio importante mediante mensajes de telefono , alertas o notificaciones
+basicamente con las APIS tenemos organizacion , claridad , seguridad y comunicacion 
+por esto son tan importantes las APIS en una comunidad y claro no olvidar una de las cosas mas importantes
+el compartir o recibir informacion mediante una API nos ayuda a tener un filtro de la veracidad 
+de la informacion que vemos, al tener un filtro como lo son los ciudadanos responsables de nuestra comunidad 
+obtendremos informacion verificada y un espacio donde hablar y discutir de la informacion que vemos.
+
