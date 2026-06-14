@@ -1,0 +1,4 @@
+{
+  "tipo": "Problems alcantarillado",
+  "descripcion": "La comunidad reporta la falta de agua en el barrii  desde hace ya do dias."
+}

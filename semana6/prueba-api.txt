@@ -1,0 +1,7 @@
+El servidor nos indica que los datos fueron recibidos correctamente
+que el nombre del usuario es maria y nos envia un mensaje a la comunidad
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
