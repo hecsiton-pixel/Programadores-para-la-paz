@@ -1,0 +1,2 @@
+cuando se consultan los reportes nos indica el tipo de daño que es a una infrestructura y nos la describe como alumbrado publico 
+id":1,"tipo":"Infraestructura","descripcion":"Daño

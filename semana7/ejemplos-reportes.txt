@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño a las sillas del parqueo"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Basura en las calles "
+  }
+]
